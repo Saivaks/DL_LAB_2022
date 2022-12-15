@@ -19,16 +19,24 @@ Adam — один из самых эффективных алгоритмов о
 https://habrastorage.org/webt/7p/jc/io/7pjcio1qukwjemezhhmznme7zre.gif
 AdaSmooth - это новый оптмизатор который как утверждают авторы нечуствительный к гиперпараметрам что снимает необходимость их подбора. Он основан на AdaGrad однако авторы поставили себе цель удалить 2 его недостатка: убрать необходимость выбора гипер параметров и учитывания только обсолютного значения градиентов. В результате у авторов получилось создать более точный и быстрый оптимизтор. 
 ![image](https://user-images.githubusercontent.com/58116790/207866415-67e1dd84-3cf8-435c-8e3a-3e6776f1bc0c.png)
+
 #Результаты 
 На следующих графиках показано сравнение результов функции ошибки от эпохи
 AdaSmooth:
+
 ![Chart](https://user-images.githubusercontent.com/58116790/207869149-6c8ebd57-ac36-4591-a939-eb4b632f8c5d.png)
+
 Adam:
+
 ![Chart](https://user-images.githubusercontent.com/58116790/207871291-334ebb6e-2618-458e-901a-e3c03b4f7186.jpg)
+
 На следующих графиков показано сравнение точности от номера эпохи:
 AdaSmooth:
+
 ![Chart (1)](https://user-images.githubusercontent.com/58116790/207871354-fd4cdca8-32b3-4ca0-a937-51358007bb28.jpg)
+
 Adam:
+
 ![Chart (2)](https://user-images.githubusercontent.com/58116790/207871407-11eb8ac6-a5e2-426e-aac6-94d7baaf1e29.jpg)
 
 

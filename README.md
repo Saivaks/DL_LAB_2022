@@ -24,12 +24,13 @@ AdaSmooth - это новый оптмизатор который как утв�
 AdaSmooth:
 ![Chart](https://user-images.githubusercontent.com/58116790/207869149-6c8ebd57-ac36-4591-a939-eb4b632f8c5d.png)
 Adam:
-![image](https://user-images.githubusercontent.com/58116790/207869565-9226e611-c64e-4765-9eee-d76f2eb75fbd.png)
+![Chart](https://user-images.githubusercontent.com/58116790/207871291-334ebb6e-2618-458e-901a-e3c03b4f7186.jpg)
 На следующих графиков показано сравнение точности от номера эпохи:
 AdaSmooth:
-![image](https://user-images.githubusercontent.com/58116790/207870626-99b4e11c-c0d3-45cd-a743-877c779dd3c0.png)
+![Chart (1)](https://user-images.githubusercontent.com/58116790/207871354-fd4cdca8-32b3-4ca0-a937-51358007bb28.jpg)
 Adam:
-![image](https://user-images.githubusercontent.com/58116790/207871063-63538481-da2a-40df-92e1-7ae5ba8777cd.png)
+![Chart (2)](https://user-images.githubusercontent.com/58116790/207871407-11eb8ac6-a5e2-426e-aac6-94d7baaf1e29.jpg)
+
 
 
 

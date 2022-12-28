@@ -30,18 +30,25 @@ BERT — это модель для предварительного обуче�
 # Результаты 
 Обучение всей модели:
 
-![image](https://user-images.githubusercontent.com/58116790/209447477-e8f5a275-faab-4951-aa27-e570abfc0ff0.png)
+![image](https://user-images.githubusercontent.com/58116790/209847702-c48f0e97-8591-49ce-a839-a9bd33111e22.png)
 
 Обучение только линейного слоя:
 
-![image](https://user-images.githubusercontent.com/58116790/209447505-8a53fb5b-23d0-47fa-ad76-ec234776d2ec.png)
+![image](https://user-images.githubusercontent.com/58116790/209847774-826dc766-127d-43a6-b45a-39bd8dcaeccc.png)
 
 Обучение только четных слоев и последнего линейного:
 
+![image](https://user-images.githubusercontent.com/58116790/209847887-f073dc7c-0cc0-43be-b1d5-c2ba6ec1ad12.png)
+
 Обчение только не четных слоев и последнего линейного:
+
+![image](https://user-images.githubusercontent.com/58116790/209847932-cfe2b465-bb19-4fc5-a316-164f87e002f4.png)
 
 Обчение только первой половины слоев и последнего линейного:
 
+![image](https://user-images.githubusercontent.com/58116790/209848757-99f245cd-baae-468e-8804-1baff12636f2.png)
+
 Обчение только второй половины слоев и последнего линейного:
 
+![image](https://user-images.githubusercontent.com/58116790/209848556-a87fd0ef-cd43-4d49-ac57-918fb2d9cc58.png)
 

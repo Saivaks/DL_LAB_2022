@@ -29,11 +29,7 @@ LSTM (long short-term memory, дословно (долгая краткосро�
 
 Изменение метрик в процессе обучения:
 
-![image](https://user-images.githubusercontent.com/58116790/213220823-a2a886c7-c476-41e2-b738-07a20242df67.png)
-
-Пример одной из разметок на тестовой выборке: 
-
-![image](https://user-images.githubusercontent.com/58116790/213193908-fdc3b4eb-cc6d-4d30-b0a9-5d1d2b7670f5.png)
+![image](https://user-images.githubusercontent.com/58116790/214106611-73141945-f598-4017-a64a-b51ae5e1fc13.png)
 
 
 
